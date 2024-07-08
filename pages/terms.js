@@ -17,8 +17,8 @@ const TermsPage = () => {
         <section className="max-w-3xl mx-auto my-8 p-8 bg-white">
           <h2 className="text-2xl font-bold mb-4">1. Introduction</h2>
           <p className="mb-4">
-            Welcome to Akhanda Seva Samsthan. These terms and conditions outline
-            the rules and regulations for the use of akhandasevasamsthan.org.
+            Welcome to Project Edu Connect. These <b><i>terms and conditions</i></b> outline
+            the rules and regulations for the use of projecteduconnect.
           </p>
 
           <h2 className="text-2xl font-bold mb-4">2. Acceptance of Terms</h2>
@@ -38,7 +38,7 @@ const TermsPage = () => {
           <h2 className="text-2xl font-bold mb-4">4. Intellectual Property</h2>
           <p className="mb-4">
             The content on this website, including text, graphics, logos, and
-            images, is the property of Akhanda Seva Samsthan and is protected by
+            images, is the property of Project Edu Connect and is protected by
             copyright laws.
           </p>
 

@@ -29,7 +29,7 @@ export default function Footer() {
                 className="flex items-center space-x-2 text-2xl font-medium text-green-950 dark:text-gray-100"
               >
                 <Image
-                  src="/img/ass-logo.png"
+                  src="/logo.png"
                   alt="N"
                   width="32"
                   height="32"
@@ -91,7 +91,7 @@ export default function Footer() {
             </div>
           </div>
           <div className="">
-            <div>Stay connected with us on</div>
+            <div>Stay connected with us</div>
             <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
               <a
                 href="https://twitter.com/AkhandaSeva"

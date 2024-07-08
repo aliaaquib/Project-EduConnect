@@ -6,33 +6,24 @@ import Footer from "../components/footer";
 const blogsList = [
   {
     id: 1,
-    title: "Plantation Program",
-    image: "/img/gallery/gi10.jpg",
+    title: "10 Fundamental Rights of a Child in India – Ensuring a Bright Future",
+    image: "/img/gallery/b1.png",
     description: `
-    Feel how difficult it would be to breathe if you carried a cylinder of oxygen on your back. This could be what we face shortly with rising global warming resulting in climate change which would impact you and me.
-    So, to prevent that scenario, we are taking action by conducting community-driven plantations. We, at Akhanda Seva Sansthan, have planted 80 plants with the active participation of 20+ volunteers across Budumuru Srikakulam and Rolugunta Vishakapatnam Dist.
-    Join us as a volunteer, experience community vibes, and become a true leader by contributing to tackling climate change.
-            `,
+    The fundamental rights of children, enshrined in the Constitution and inspired by internationally accepted principles, ensure that the children of India grow up in a safe, nurturing, and empowering environment.`,
   },
   {
     id: 2,
-    title: "Food Donation Program",
-    image: "/img/gallery/gi3.jpg",
+    title: "Gender Inequality in India – Causes & Solutions",
+    image: "/img/gallery/b2.png",
     description: `
-    If God appears to me and asks me for a wish to fulfill. Then, I would wish for everyone in the world to be blessed with 3 meals every day, and that too be a balanced diet. You may be wondering why I made that wish. According to Global Hunger Index 2021, India’s score of 27.5 is considered to be serious. It is due to a timely and balanced diet that provides a healthy physique. And it is believed that “health is wealth.”
-    So, to improve India’s ranking in the global hunger index and to achieve the goal of SDG-2, which is zero hunger, we at Akhanda Seva Samsthan are conducting food distribution programs for the needy. We have distributed to nearly 50+ individuals across cities in Hyderabad, Srikakulam, Vishakapatnam, Amalapuram, and Machilipatnam.
-    Collaborate with us in our food donation program to be a true leader and experience the joy of sharing and caring.
-    `,
+    Gender inequality has been a crucial social issue in India for centuries. Census 2011 shows the child sex ratio among children of 0-6 years to be 918 girls for every 1000 boys in India. This statistic speaks for itself and demands urgent and efficient solutions to address the cause of gender inequalities. `,
   },
   {
     id: 3,
-    title: "Blood Donation Program",
-    image: "https://i.ibb.co/1mkq8Mp/8c36296f-6da3-4eb3-aa87-e1aef12143c3.jpg",
+    title: "Education In Rural India: Challenges, Opportunities, Initiatives",
+    image: "/img/gallery/b3.png",
     description: `
-    Blood is considered to be the lifeline of our bodies. Everyone believes that it would be available easily. However, this is not the case. The blood can be stored only for 3-4 days, which will also be under cold conditions. In addition, some limitations make blood arrangements difficult.
-    We, at Akhanda Seva Sansthan, have donated blood for 20 Thalassemia patients at Thalassemia Sickle Cell Society in Rajendar Nagar, Hyderabad on behalf of EX CBI officer JD Lakshmi Narayana Garu. Also, we collaborated with the Youth for Seva organization and blood donation campaigns.
-    Join us, to become a true leader by donating blood or being a part of blood donation campaigns. Taking part in these campaigns requires truly a big heart. We believe you are one among them.
-`,
+    Imagine a future where every child in India can get a quality education regardless of zip code. However, the harsh truth about rural India makes this future seem far away. Limited infrastructure,`,
   },
 ];
 const Blogs = () => {

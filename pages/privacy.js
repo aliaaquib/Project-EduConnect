@@ -16,7 +16,7 @@ const PrivacyPage = () => {
         {/* Privacy Content */}
         <section className="max-w-3xl mx-auto my-8 p-8 bg-white">
           <p className="mb-4">
-            This privacy policy outlines how Akhanda Seva Samsthan collects,
+            This privacy policy outlines how Project Edu Connect collects,
             uses, and protects your personal information. By using our services,
             you agree to the terms of this privacy policy.
           </p>

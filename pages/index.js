@@ -34,7 +34,7 @@ const Home = () => {
       <Head>
         <title>Project Edu Connect</title>
         <meta name="description" content="A non-profit initiative dedicated to empowering access to education within marginalized and minority communities." />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.svg" />
       </Head>
 
       <Navbar />
