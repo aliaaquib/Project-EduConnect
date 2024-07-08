@@ -178,9 +178,9 @@ const ContactPage = () => {
             </p>
             {/* Include your specific contact information here */}
             <p className="px-2">
-              ✉️ Email id: akhandasevasamsthan.ass@gmail.com
+              ✉️ Email id: rameezreza1999@gmail.com
             </p>
-            <p>📞 Cell: +91 97046 01395</p>
+            <p>📞 Cell: +91 7983792243</p>
           </div>
         </section>
       </div>

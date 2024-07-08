@@ -161,10 +161,16 @@ const AboutUs = () => {
               Have questions or want to get involved? Reach out to us!
             </p>
             <a
-              href="tel:+917419261380"
+              href="tel:+917983792243"
               className="px-6 py-3 text-lg font-medium text-center text-white bg-green-950 hover:bg-green-900 rounded-md transition duration-300"
             >
               Call Us
+            </a> 
+            <a
+              href="mailto:8888ameezreza1999@gmail.com"
+              className="px-6 py-3 ml-5 text-lg font-medium text-center text-white bg-green-950 hover:bg-green-900 rounded-md transition duration-300"
+            >
+              Email Us
             </a>
           </div>
         </section>
