@@ -94,7 +94,7 @@ export default function Footer() {
             <div>Stay connected with us</div>
             <div className="flex mt-5 space-x-5 text-gray-400 dark:text-gray-500">
               <a
-                href="https://twitter.com/AkhandaSeva"
+                href=""
                 target="_blank"
                 rel="noopener"
               >
@@ -102,7 +102,7 @@ export default function Footer() {
                 <Twitter />
               </a>
               <a
-                href="https://youtube.com/@akhandasevasamsthan?si=kG8VE5I30mrwks-1"
+                href=""
                 target="_blank"
                 rel="noopener"
               >
@@ -110,7 +110,7 @@ export default function Footer() {
                 <Youtube />
               </a>
               <a
-                href="https://www.instagram.com/akhandasevasamsthan.ass/?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr"
+                href=""
                 target="_blank"
                 rel="noopener"
               >
@@ -118,7 +118,7 @@ export default function Footer() {
                 <Instagram />
               </a>
               <a
-                href="https://www.linkedin.com/company/akhandasevasamsthan/posts/?feedView=all"
+                href=""
                 target="_blank"
                 rel="noopener"
               >
