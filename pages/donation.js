@@ -83,13 +83,13 @@ export default function App() {
             <div className="flex flex-col m-5">
               <h1 className="text-3xl font-bold mb-4 pl-2">Donate Now</h1>
               <img
-                src="https://i.ibb.co/G5xR3VQ/payments-gateways-strip.png"
+                src="https://i.ibb.co/G5xR3VQ/payments-gateways-strip.png."
                 alt="Payment Gateways"
                 width="250"
                 height="250"
               />
               <img
-                src="https://i.ibb.co/K6Xy43x/ass-donation-scanner-phonepe.jpg"
+                src="/img/socio-qr.png"
                 alt="Payment Gateways"
                 width="250"
                 height="250"
@@ -103,8 +103,8 @@ export default function App() {
                 <hr className="flex-1 border-t border-gray-400" />
               </div>
               <p className="text-left">
-                Use this UPI Id: <strong>8143660501@ybl</strong> or enter
-                Contact number <strong>8143660501</strong>
+                Use this UPI Id: <strong>xxxxxxxxxx@ybl</strong> or enter
+                Contact number <strong>xxxxxxxxxx</strong>
               </p>
             </div>
           </div>
