@@ -9,8 +9,8 @@ export default function Footer() {
   const navigation = [
     { label: "Sitemap", link: "/sitemap" },
     { label: "Blogs and News", link: "/blogs" },
-    { label: "Validate Certificate", link: "/validate" },
-    { label: "Admin Login", link: "/adminlogin" },
+    { label: "Validate Certificate", link: "/" },
+    { label: "Admin Login", link: "/" },
   ];
   const legal = [
     { label: "Terms", link: "/terms" },
